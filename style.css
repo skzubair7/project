@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    text-align:center;
+}
+p{
+    text-align: center;
+}
+form{
+    margin-top:100px;
+}
+input{
+    height:40px;
+    width: 250px;
+    border:1.5px solid lightgray;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+
+#login_btn{
+    color:white;
+    height:30px;
+    width:250px;
+    border-radius:20px;
+    border:none;
+    background-color:rgb(31, 31, 233);
+}
+#forget_p{
+    margin-top:20px;
+}
+#create_btn{
+    margin-top:60px;
+    color:blue;
+    height:30px;
+    width:250px;
+    border-radius:20px;
+    border:1px solid blue;
+    background-color:white;
+
+}
